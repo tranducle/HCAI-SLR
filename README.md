@@ -29,7 +29,7 @@ The HCAI-SLR framework is a balanced approach to systematic literature reviews, 
 
 ## Demo of Human-centered Artificial Intelligence - Systematic Literature Review (HCAI-SLR) Framework
 
-[![Demo of HCAI-SLR]](https://www.youtube.com/watch?v=la-HzhKdWUw&ab_channel=ruacon35)
+[[Video Demo]()](https://www.youtube.com/watch?v=la-HzhKdWUw&ab_channel=ruacon35)
 
 For comprehensive details on the HCAI-SLR framework, please refer to our published paper (to be updated). We encourage feedback and improvements through issues and pull requests on this repository!
 
